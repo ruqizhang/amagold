@@ -1,5 +1,5 @@
 # AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic Gradient MCMC
-This repository contains code for [AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic Gradient MCMC], AISTATS, 2020
+This repository contains code for [AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic Gradient MCMC](https://arxiv.org/abs/2003.00193), AISTATS, 2020
 
 # Dependencies
 * Python 2.7
